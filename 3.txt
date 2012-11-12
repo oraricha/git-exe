@@ -1,0 +1,4 @@
+before line 1
+line 1
+line2
+new line 4
